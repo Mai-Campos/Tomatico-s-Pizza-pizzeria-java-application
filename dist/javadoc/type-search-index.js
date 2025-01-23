@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"pizzeria.tomatico.s.pizza","l":"CambiaPrecio"},{"p":"pizzeria.tomatico.s.pizza","l":"PizzeriaApp"}];updateSearchResults();
